@@ -6,10 +6,10 @@
  * Time: 21:30
  */
 
-namespace app\core;
+namespace emcodepro\mvc;
 
-use app\core\exceptions\ForbiddenException;
-use app\core\exceptions\NotFoundException;
+use emcodepro\mvc\exceptions\ForbiddenException;
+use emcodepro\mvc\exceptions\NotFoundException;
 
 class Router
 {

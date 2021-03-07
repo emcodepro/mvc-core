@@ -6,11 +6,11 @@
  * Time: 10:39
  */
 
-namespace app\core\db;
+namespace emcodepro\mvc\db;
 
-use app\core\Application;
+use emcodepro\mvc\Application;
 
-abstract class DbModel extends \app\core\Model
+abstract class DbModel extends \emcodepro\mvc\Model
 {
     abstract public static function tableName(): string;
 

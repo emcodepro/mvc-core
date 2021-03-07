@@ -6,7 +6,7 @@
  * Time: 21:43
  */
 
-namespace app\core;
+namespace emcodepro\mvc;
 
 class Request
 {

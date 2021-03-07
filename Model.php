@@ -6,7 +6,7 @@
  * Time: 10:57
  */
 
-namespace app\core;
+namespace emcodepro\mvc;
 
 
 abstract class Model

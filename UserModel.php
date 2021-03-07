@@ -6,10 +6,10 @@
  * Time: 10:41
  */
 
-namespace app\core;
+namespace emcodepro\mvc;
 
 
-use app\core\db\DbModel;
+use emcodepro\mvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

@@ -6,9 +6,9 @@
  * Time: 10:45
  */
 
-namespace app\core\db;
+namespace emcodepro\mvc\db;
 
-use app\core\Application;
+use emcodepro\mvc\Application;
 use PDO;
 
 class Database

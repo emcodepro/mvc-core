@@ -6,9 +6,9 @@
  * Time: 21:26
  */
 
-namespace app\core;
+namespace emcodepro\mvc;
 
-use app\core\db\Database;
+use emcodepro\mvc\db\Database;
 use app\models\User;
 
 class Application

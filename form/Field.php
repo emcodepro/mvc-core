@@ -6,7 +6,7 @@
  * Time: 17:18
  */
 
-namespace app\core\form;
+namespace emcodepro\mvc\form;
 
 
 class Field

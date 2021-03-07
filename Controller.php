@@ -6,7 +6,7 @@
  * Time: 10:18
  */
 
-namespace app\core;
+namespace emcodepro\mvc;
 
 
 class Controller

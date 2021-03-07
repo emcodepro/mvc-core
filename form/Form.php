@@ -6,7 +6,7 @@
  * Time: 15:18
  */
 
-namespace app\core\form;
+namespace emcodepro\mvc\form;
 
 
 class Form

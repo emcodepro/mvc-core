@@ -6,7 +6,7 @@
  * Time: 20:50
  */
 
-namespace app\core;
+namespace emcodepro\mvc;
 
 
 class View

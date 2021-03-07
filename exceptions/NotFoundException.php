@@ -6,7 +6,7 @@
  * Time: 10:00
  */
 
-namespace app\core\exceptions;
+namespace emcodepro\mvc\exceptions;
 
 
 use Throwable;

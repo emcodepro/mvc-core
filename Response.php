@@ -6,7 +6,7 @@
  * Time: 10:13
  */
 
-namespace app\core;
+namespace emcodepro\mvc;
 
 class Response
 {

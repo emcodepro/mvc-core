@@ -6,7 +6,7 @@
  * Time: 18:14
  */
 
-namespace app\core;
+namespace emcodepro\mvc;
 
 
 class Session
